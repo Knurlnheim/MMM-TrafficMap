@@ -1,0 +1,24 @@
+{
+  "name": "MMM-TrafficMap",
+  "version": "0.0.1",
+  "description": "MagicMirror Module for Traffic Map",
+  "main": "MMM-TrafficMap.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knurlnheim/MMM-TrafficMap.git"
+  },
+  "keywords": [
+    "MagicMirror",
+    "Module",
+    "Traffic",
+    "Maps"
+  ],
+  "author": "Marc F.",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Knurlnheim/MMM-TrafficMap/issues"
+  },
+  "homepage": "https://github.com/Knurlnheim/MMM-TrafficMap#readme",
+  "dependencies": {
+  }
+}
